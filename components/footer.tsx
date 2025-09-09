@@ -30,7 +30,7 @@ export function Footer() {
                 <Phone className="h-4 w-4 text-primary" />
                 <span className="text-background/80 text-sm">011 3534-3427</span>
               </div>
-              {/* whatsapp */}
+              {/* WhatsApp */}
               <div className="flex items-center space-x-3">
                 <MessageCircle className="h-4 w-4 text-primary" />
                 <span className="text-background/80 text-sm">+54 9 11 2883-5917</span>
