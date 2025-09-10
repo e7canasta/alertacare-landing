@@ -5,13 +5,9 @@ import { KPIResults } from "@/components/kpi-results"
 import { NurseOfficeKPI } from "@/components/nurse-office-kpi"
 import { ResourcesGuides } from "@/components/resources-guides"
 import { SecurityPrivacy } from "@/components/security-privacy"
-import { SafelyYouSafety } from "@/components/safelyou-safety"
+import { AlertaCareSafety } from "@/components/alertacare-safety"
 import { LeaderTestimonials } from "@/components/leader-testimonials"
-import { BetterSupport } from "@/components/better-support"
-import { SimpleInstallation } from "@/components/simple-installation"
-import { FAQ } from "@/components/faq"
 import { ProvenResults } from "@/components/proven-results"
-import { FinalCTA } from "@/components/final-cta"
 import { Footer } from "@/components/footer"
 
 export default function HomePage() {
@@ -23,7 +19,7 @@ export default function HomePage() {
       <KPIResults />
       <NurseOfficeKPI />
       <ResourcesGuides />
-      <SafelyYouSafety />
+      <AlertaCareSafety />
       <LeaderTestimonials />
       <ProvenResults />
       <SecurityPrivacy />

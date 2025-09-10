@@ -12,14 +12,14 @@ export function Hero() {
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 h-full">
         <div className="flex items-center h-full">
-          {/* Content positioned on left side like SafelyYou */}
+          {/* Content positioned on left side like AlertaCare */}
           <div className="max-w-2xl space-y-8">
             <div className="space-y-6">
               <h1 className="text-5xl lg:text-6xl font-bold text-white leading-tight">
                 Revolucioná tu enfoque del manejo de caídas.
               </h1>
               <p className="text-xl text-white/90 leading-relaxed max-w-xl">
-                Aprovechá IA líder mundial y experiencia clínica para reducir caídas, riesgos y costos mientras aumentás
+                Aprovechá tecnología de IA avanzada y experiencia clínica especializada para reducir caídas, riesgos y costos mientras aumentás
                 la estadía y el ROI.
               </p>
             </div>

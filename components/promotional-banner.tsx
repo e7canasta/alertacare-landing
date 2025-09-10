@@ -14,7 +14,7 @@ export function PromotionalBanner() {
         <div className="flex-1">
           <p className="text-sm md:text-base font-medium">
             <span className="font-semibold">Directores médicos y administradores:</span> Mejore la seguridad y
-            eficiencia operacional con SafelyYou. Evaluación gratuita de 60 días disponible en Lanús, Avellaneda y
+            eficiencia operacional con AlertaCare. Evaluación gratuita de 60 días disponible en Lanús, Avellaneda y
             Quilmes. <span className="underline cursor-pointer hover:no-underline">Solicite su evaluación</span>
           </p>
         </div>

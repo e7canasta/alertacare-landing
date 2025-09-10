@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 import { Camera, Wifi, AlertTriangle } from "lucide-react"
 import { useState } from "react"
 
-export function SafelyYouSafety() {
+export function AlertaCareSafety() {
   const [activeFeature, setActiveFeature] = useState<string | null>(null)
 
   const features = [
